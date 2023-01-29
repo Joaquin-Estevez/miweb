@@ -1,1 +1,2 @@
-console.log("archivo 1");
+texto = "archivo1";
+console.log(texto);
